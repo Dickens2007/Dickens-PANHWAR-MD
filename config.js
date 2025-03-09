@@ -19,7 +19,7 @@ module.exports = {
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imghippo.com/files/Heb9902bbM.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HELLO I'M MAPENZI CHENGA MD YOUR WHATS APP CHUDDYBUDDY👊",
-    ANTI_LINK: process.env.ANTI_LINK || "true",
+    ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "false",
     PREFIX: process.env.PREFIX || "M_",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
